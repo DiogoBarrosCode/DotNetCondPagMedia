@@ -8,7 +8,7 @@ namespace DotNetCondPagMedia
         static void Main(string[] args)
         {
 
-            string[] condicaoPagamento = System.IO.File.ReadAllLines(@"C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\entrada-de-dados.txt");
+            string[] condicaoPagamento = System.IO.File.ReadAllLines(@"C:\Users\Diogo\Desktop\Dev\workspace\DotNetCondPagMedia\DotNetCondPagMedia\entrada-de-dados.txt");
 
             /*
             foreach (string lines in condicaoPagamento)
@@ -20,7 +20,7 @@ namespace DotNetCondPagMedia
             //Console.WriteLine(condicaoPagamento.Length);
 
             StreamWriter x;
-            string Caminho = @"C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\saida-de-dados.txt";
+            string Caminho = @"C:\Users\Diogo\Desktop\Dev\workspace\DotNetCondPagMedia\DotNetCondPagMedia\saida-de-dados.txt";
             
             for(int i = 0; i < condicaoPagamento.Length; i++)
             {   

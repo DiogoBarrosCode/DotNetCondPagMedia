@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\Dev\\c# - iniciante\\net\\DotNetCondPagMedia\\DotNetCondPagMedia.csproj",
+      "projectUniqueName": "C:\\Users\\Diogo\\Desktop\\Dev\\workspace\\DotNetCondPagMedia\\DotNetCondPagMedia\\DotNetCondPagMedia.csproj",
       "projectName": "DotNetCondPagMedia",
-      "projectPath": "C:\\Users\\Diogo\\Desktop\\Dev\\c# - iniciante\\net\\DotNetCondPagMedia\\DotNetCondPagMedia.csproj",
+      "projectPath": "C:\\Users\\Diogo\\Desktop\\Dev\\workspace\\DotNetCondPagMedia\\DotNetCondPagMedia\\DotNetCondPagMedia.csproj",
       "packagesPath": "C:\\Users\\Diogo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Diogo\\Desktop\\Dev\\c# - iniciante\\net\\DotNetCondPagMedia\\obj\\",
+      "outputPath": "C:\\Users\\Diogo\\Desktop\\Dev\\workspace\\DotNetCondPagMedia\\DotNetCondPagMedia\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diogo\\AppData\\Roaming\\NuGet\\NuGet.Config"
