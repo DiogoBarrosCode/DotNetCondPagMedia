@@ -1,0 +1,16 @@
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.exe
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.deps.json
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.runtimeconfig.json
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.runtimeconfig.dev.json
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.dll
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\ref\DotNetCondPagMedia.dll
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\bin\Debug\net5.0\DotNetCondPagMedia.pdb
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.csprojAssemblyReference.cache
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.AssemblyInfoInputs.cache
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.AssemblyInfo.cs
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.csproj.CoreCompileInputs.cache
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.dll
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\ref\DotNetCondPagMedia.dll
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.pdb
+C:\Users\Diogo\Desktop\Dev\c# - iniciante\net\DotNetCondPagMedia\obj\Debug\net5.0\DotNetCondPagMedia.genruntimeconfig.cache
